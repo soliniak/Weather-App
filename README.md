@@ -7,7 +7,6 @@
 - Add one field with search input to type in city
 - Button to change between metric system, kelvin, fahrenheit, m/s to miles per hour
 - Add time zones (maybe through API?)
-- Handle error codes (maybe different bg?)
 
 ## Done:
 - Connect to API and fetch data
@@ -16,6 +15,7 @@
 - Add weather overlay (rain, snow, sun)
 - Assign picture to major cities (London, New York, Warsaw, Moscow etc.)
 - Change background-image to img
+- Handle error codes (maybe different bg? - sad face :( )
 
 Graphic design is inspired by: W3layouts
 ![Graphic inspiration](https://github.com/soliniak/Weather-App/blob/master/src/img/weather%20template.jpg)
