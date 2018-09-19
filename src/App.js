@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import WeatherSegment from "./components/weatherSegment/weatherSegment";
 import "./App.css";
+import "./media.css";
 
 // const cities = [
 //   "Warsaw",
