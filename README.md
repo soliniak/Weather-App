@@ -6,7 +6,6 @@
 - Work with opacity relative to time in city (at night darker overlay, at day lighter overlay)
 - Add one field with search input to type in city
 - Button to change between metric system, kelvin, fahrenheit, m/s to miles per hour
-- Add time zones (maybe through API?)
 
 ## Done:
 - Connect to API and fetch data
