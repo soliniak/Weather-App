@@ -6,6 +6,8 @@
 - Work with opacity relative to time in city (at night darker overlay, at day lighter overlay)
 - Add one field with search input to type in city
 - Button to change between metric system, kelvin, fahrenheit, m/s to miles per hour
+- Tweak graphic design to something like so:
+![Graphic inspiration](https://github.com/soliniak/Weather-App/blob/master/src/img/weather%20template.jpg)
 
 ## Done:
 - Connect to API and fetch data
@@ -17,5 +19,4 @@
 - Handle error codes (maybe different bg? - sad face :( )
 - RWD
 
-Graphic design is inspired by: W3layouts
-![Graphic inspiration](https://github.com/soliniak/Weather-App/blob/master/src/img/weather%20template.jpg)
+
