@@ -15,6 +15,7 @@
 - Assign picture to major cities (London, New York, Warsaw, Moscow etc.)
 - Change background-image to img
 - Handle error codes (maybe different bg? - sad face :( )
+- RWD
 
 Graphic design is inspired by: W3layouts
 ![Graphic inspiration](https://github.com/soliniak/Weather-App/blob/master/src/img/weather%20template.jpg)
